@@ -7,5 +7,5 @@
  */
 
 echo phpinfo();
-echo "hola mundo!!";
+echo "hola planeta tierra!!";
 
