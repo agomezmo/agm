@@ -7,6 +7,7 @@
         <h1>Tip del d&iacute;a: </h1>
         <?php
             echo "<h3>Aqu&iacute; va el Tip: </h3>";
+            echo "Desde github";
         ?>
     </body>
 </html>
